@@ -71,3 +71,19 @@ Constructed from five official ISO-NE Standard Market Design (SMD) hourly workbo
 ```bash
 pip install -r requirements.txt
 python cnn_bilstm_load_forecasting.py
+
+## 6. Publication & Citation
+
+This repository provides the official open-source implementation and benchmark dataset for our paper accepted at the **2026 IEEE International Conference on Electrical, Communication and Computer Engineering (ICECCE)** *(Paper ID: PAP-080)*:
+
+> H. Yousaf, S. K. Rasakatla, Z. Musawar, A. Rahman, K. Ullah, and R. Younis, "CNN-BiLSTM Hybrid Neural Network for Short-Term Load Forecasting in Deregulated Electricity Markets," *2026 International Conference on Electrical, Communication and Computer Engineering (ICECCE)*, IEEE, 2026.
+
+```bibtex
+@inproceedings{yousaf2026cnnbilstm,
+  author    = {Yousaf, Hamza and Rasakatla, Sravan Kumar and Musawar, Zulqarnain and Rahman, Abdur and Ullah, Kaleem and Younis, Rehmana},
+  title     = {CNN-BiLSTM Hybrid Neural Network for Short-Term Load Forecasting in Deregulated Electricity Markets},
+  booktitle = {2026 International Conference on Electrical, Communication and Computer Engineering (ICECCE)},
+  year      = {2026},
+  publisher = {IEEE},
+  note      = {Paper ID: PAP-080}
+}
