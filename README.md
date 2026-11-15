@@ -71,6 +71,9 @@ Constructed from five official ISO-NE Standard Market Design (SMD) hourly workbo
 ```bash
 pip install -r requirements.txt
 python cnn_bilstm_load_forecasting.py
+```
+
+---
 
 ## 6. Publication & Citation
 
@@ -87,3 +90,4 @@ This repository provides the official open-source implementation and benchmark d
   publisher = {IEEE},
   note      = {Paper ID: PAP-080}
 }
+```
